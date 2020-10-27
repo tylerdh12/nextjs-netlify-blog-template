@@ -1,19 +1,18 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Tyler Harper | Blog",
+  "site_description": "Development Blog",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
+    "Blog",
     {
       "keyword": "Netlify"
     },
     {
       "keyword": "React"
-    }
+    },
+    "Development"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@jsstackdev",
+  "github_account": "tylerdh12"
 }
